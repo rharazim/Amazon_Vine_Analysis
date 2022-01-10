@@ -7,9 +7,11 @@ In this challenge, we are analyzing reviews written by members of the paid Amazo
 https://github.com/rharazim/Amazon_Vine_Analysis/blob/main/Resources/vine_df.png
 https://github.com/rharazim/Amazon_Vine_Analysis/blob/main/Resources/amazon_vine_analysis.png
 
--- In total, there were 30,414 5-star reviews. Of those 30,414 reviews, 432 were part of the Vine program (paid), and the other 29,982 were not (unpaid).
--- Vine reviews accounted for 1.42% of total 5-star reviews.
--- Non-vine reviews accounted for 98.58% of total 5-star reviews.
+- In total, there were 30,414 5-star reviews. Of those 30,414 reviews, 432 were part of the Vine program (paid), and the other 29,982 were not (unpaid).
+
+- Vine reviews accounted for 1.42% of total 5-star reviews.
+
+- Non-vine reviews accounted for 98.58% of total 5-star reviews.
 
 ## Summary
 Vine reviews accounted for under 2% of total 5-star reviews, so the reviews can be seen as reliable due to the scarcity of biased, paid reviews. Over 98% of the 5-star reviews were from unpaid sources, likely from actual customers who purchased the products and were satisfied. I noticed while reviewing the data that a majority of the Vine reviews were for products of very well-known toy companies. If I were to conduct additional analysis, I would cross-reference the product descriptions of Vine reviews with a list of the top 10 toy companies to see the percentage of paid reviews they make up. 
